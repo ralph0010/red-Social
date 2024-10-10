@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\controllers\\miembrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\controllers\\miembrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\controllers\\iniciosesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\controllers\\iniciosesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\iniciosesion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\iniciosesion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\verpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\verpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\realizarpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\realizarpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\usuario\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\usuario\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\versolicitudespendiente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\versolicitudespendiente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\valoraceptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\valoraceptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\mostrarmiembros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\mostrarmiembros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\miembro\\comentariospost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\miembro\\comentariospost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\invitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\invitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\usuario\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\usuario\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\biblioteca\\estadosolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85984CB4-705D-4CC1-8146-BAE154D287F9}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\estadosolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\2do semestre\\programacion 2\\obligatorio 2\\entrega de proyecto final\\obligatoriofinal\\obligatorio2\\obligatorio2\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A064C2D6-344C-405B-A488-B4B064FD29E6}|Obligatorio2\\Obligatorio2.csproj|solutionrelative:obligatorio2\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\Inicio.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\Inicio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:15:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComentariosPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\ComentariosPost.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\ComentariosPost.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\ComentariosPost.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\ComentariosPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-22T11:55:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Obligatorio2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-22T11:55:18.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MostrarMiembros.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\MostrarMiembros.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\MostrarMiembros.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\MostrarMiembros.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\MostrarMiembros.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-21T17:58:17.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\VerPost.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\VerPost.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\VerPost.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\VerPost.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-21T17:31:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RealizarPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\RealizarPost.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\RealizarPost.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\RealizarPost.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\RealizarPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-21T15:13:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Obligatorio2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Obligatorio2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-21T13:43:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VerSolicitudesPendiente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\VerSolicitudesPendiente.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Miembro\\VerSolicitudesPendiente.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Miembro\\VerSolicitudesPendiente.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Miembro\\VerSolicitudesPendiente.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-20T20:59:05.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAvwIcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-11-20T20:44:44.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValorAceptacion.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\ValorAceptacion.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\ValorAceptacion.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\ValorAceptacion.cs",
+              "RelativeToolTip": "Biblioteca\\ValorAceptacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:42:50.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Publicacion.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Publicacion.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Publicacion.cs",
+              "RelativeToolTip": "Biblioteca\\Publicacion.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:45.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Post.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Post.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Post.cs",
+              "RelativeToolTip": "Biblioteca\\Post.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:35.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\IValidable.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\IValidable.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\IValidable.cs",
+              "RelativeToolTip": "Biblioteca\\IValidable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Comentario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Comentario.cs",
+              "RelativeToolTip": "Biblioteca\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:30.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EstadoSolicitud.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\EstadoSolicitud.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\EstadoSolicitud.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\EstadoSolicitud.cs",
+              "RelativeToolTip": "Biblioteca\\EstadoSolicitud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:28.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Invitacion.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Invitacion.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Invitacion.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Invitacion.cs",
+              "RelativeToolTip": "Biblioteca\\Invitacion.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:38:26.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Biblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Biblioteca.csproj",
+              "RelativeDocumentMoniker": "Biblioteca\\Biblioteca.csproj",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Biblioteca.csproj",
+              "RelativeToolTip": "Biblioteca\\Biblioteca.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-20T20:38:22.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiembroController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\MiembroController.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Controllers\\MiembroController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\MiembroController.cs",
+              "RelativeToolTip": "Obligatorio2\\Controllers\\MiembroController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAHwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T20:33:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Error\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Error\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-18T23:52:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Obligatorio2\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T23:51:40.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Usuario\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Usuario\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Usuario\\Inicio.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Usuario\\Inicio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-18T20:56:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "Obligatorio2\\Controllers\\AdministradorController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T19:50:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Administrador\\Index.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Administrador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Administrador\\Index.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Administrador\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-18T04:00:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-18T02:22:25.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Program.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Program.cs",
+              "RelativeToolTip": "Obligatorio2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T23:20:43.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Sistema.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Sistema.cs",
+              "RelativeToolTip": "Biblioteca\\Sistema.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwGsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T22:51:18.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Miembro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Miembro.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Miembro.cs",
+              "RelativeToolTip": "Biblioteca\\Miembro.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAwLYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T22:09:17.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Usuario.cs",
+              "RelativeToolTip": "Biblioteca\\Usuario.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wDsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T22:09:00.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Usuario\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Usuario\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Usuario\\Registrarse.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Usuario\\Registrarse.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-16T22:05:37.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Obligatorio2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T22:04:58.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "Obligatorio2\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "Obligatorio2\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-16T20:51:08.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\InicioSesion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\InicioSesion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\InicioSesion\\Index.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\InicioSesion\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-16T20:41:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InicioSesionController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\InicioSesionController.cs",
+              "RelativeDocumentMoniker": "Obligatorio2\\Controllers\\InicioSesionController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Controllers\\InicioSesionController.cs",
+              "RelativeToolTip": "Obligatorio2\\Controllers\\InicioSesionController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Obligatorio2\\Controllers",
+              "WhenOpened": "2023-11-16T20:30:19.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Obligatorio2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Obligatorio2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Obligatorio2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-16T20:27:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Administrador.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\2do semestre\\Programacion 2\\Obligatorio 2\\Entrega de proyecto final\\ObligatorioFinal\\Obligatorio2\\Biblioteca\\Administrador.cs",
+              "RelativeToolTip": "Biblioteca\\Administrador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T15:15:20.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

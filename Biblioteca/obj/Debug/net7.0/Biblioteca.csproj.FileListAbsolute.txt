@@ -1,0 +1,221 @@
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Program\Obligatorio\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-28-09-2023\Obligatorio-28-09-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-02-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-03-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio NUEVO 10-3\Obligatorio NUEVO\Obligatorio-02-10-2023\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio\Obligatorio-06-10-2023\Obligatorio-05-10-2023 (2)\Obligatorio-04-10-2023\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio 20 -11\Obligatorio19-11 (1)\Obligatorio18-11-2023Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio20-11Rafa\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\21-11\ultimo\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio22-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\nicor\Downloads\Obligatorio23-11-23\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Obligatorio2-ULITIMATUM\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\2do semestre\Programacion 2\Obligatorio 2\Entrega de proyecto final\ObligatorioFinal\Obligatorio2\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
